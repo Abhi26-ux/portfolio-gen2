@@ -1,0 +1,19 @@
+img{
+    /* box-shadow: 2px 5px; */
+    padding-top: 40px;
+    padding-left: 20px;
+    height: 300px;
+    width: 250px;
+    float: left;
+}
+.abhi{
+    padding-top: 80px;
+    padding-left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table, th, td{
+    border: 2px solid black ;
+}
+.we{
+    font-size: 26px;
+}
